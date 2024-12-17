@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyConverter", "EasyConverter\EasyConverter.csproj", "{C7E6BA6D-6836-41AD-AB73-7448DC1C2E85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{D0686012-041B-4228-AF18-A482C286F1B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{697CDE63-5C44-47F9-AD50-045F50E03C55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{C7E6BA6D-6836-41AD-AB73-7448DC1C2E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7E6BA6D-6836-41AD-AB73-7448DC1C2E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7E6BA6D-6836-41AD-AB73-7448DC1C2E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0686012-041B-4228-AF18-A482C286F1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0686012-041B-4228-AF18-A482C286F1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0686012-041B-4228-AF18-A482C286F1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0686012-041B-4228-AF18-A482C286F1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697CDE63-5C44-47F9-AD50-045F50E03C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697CDE63-5C44-47F9-AD50-045F50E03C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697CDE63-5C44-47F9-AD50-045F50E03C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697CDE63-5C44-47F9-AD50-045F50E03C55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
